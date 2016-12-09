@@ -1,3 +1,27 @@
+# LEARN ANGULAR 2  
+
+http://learnangular2.com/  
+
+# Get started with Ionic Framework  
+
+http://ionicframework.com/getting-started/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
 # Ionic 2
